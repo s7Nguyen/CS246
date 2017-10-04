@@ -1,0 +1,6 @@
+Author: Steve Nguyen
+Wednesday, October 4, 2017
+CS 246-02 Software Design and Development
+
+
+This is a test .txt file to demonstrate step #2 of 04 Teach : Team Activity - Practice with Git.
