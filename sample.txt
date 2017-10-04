@@ -6,3 +6,5 @@ CS 246-02 Software Design and Development
 This is a test .txt file to demonstrate step #2 of 04 Teach : Team Activity - Practice with Git.
 
 Hello Steve, this is me attempting to make new changes in this file. -Me
+
+Hello Steve, this is Sam attempting to make new changes in this SAMPLE.TXT file. - Sam
